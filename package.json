@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
-    "router": "^2.2.0",
-    "vue": "^3.5.22"
+    "vue": "^3.5.22",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@types/node": "^24.6.0",
